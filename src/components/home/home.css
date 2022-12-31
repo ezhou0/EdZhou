@@ -1,3 +1,7 @@
+.home{
+    margin:auto;
+}
+
 .home__container{
     row-gap: 7rem;
 }
@@ -104,4 +108,9 @@
     font-weight: var(--font-medium);
     margin-right: var(--mb-0-25);
 
+}
+
+.home__scroll-arrow{
+    font-size: 1.25rem;
+    color: var(--title-color);
 }
