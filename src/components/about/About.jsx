@@ -7,15 +7,15 @@ import AboutImg from "../../assets/about.jpg";
 const About = () =>{
     return(
        <section className="about section" id="about">
-            <h2 className="section__title"> About Me
-                <span className="section__subtitle about__subtitle"> introduction
+            <h2 className="section__title"> About Me</h2>
+                <span className="section__subtitle about__subtitle"> introduction</span>
+
                     <div className="about__container container grid">
                         <img src={AboutImg} alt="" className="about__img" />
                         <div className="about__data">
                             <p className="about__description">
                               I am a software developer and recent graduate from the University of California, Los Angeles. I have a passion for front-end development. Outside of coding, I love to dance and explore the creative arts. You can check out some of my past performances <a class='about__link'target='_blank'
                     href='https://www.youtube.com/watch?v=KuCwlx7ksuw&list=PLFfMg0FFSP1LnKu7TQiJC6Jsy90W7khBC'>here</a>.
-
                             </p>
 
                             <a href="{Resume}" className="button button--flex">Resume
@@ -47,8 +47,8 @@ const About = () =>{
                             </a>
                         </div>
                     </div>
-                </span>
-            </h2>
+                
+            
        </section>
     )
 }
