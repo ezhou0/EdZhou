@@ -24,6 +24,14 @@
     font-weight: var(--font-normal);
 }
 
+.about__link{
+    color: var(--text-color);
+}
+
+.about__link:hover{
+    color: var(--title-color-dark)
+}
+
 /* For large devices */
 @media screen and (max-width: 992px) {
     .about__container{
