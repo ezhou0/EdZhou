@@ -62,3 +62,8 @@
 .work__button:hover .work__button-icon{
     transform: translateX(.25rem);
 }
+
+.active-work{
+    background-color: var(--title-color);
+    color: var(--body-color);
+}
