@@ -35,7 +35,7 @@ const Projects = () => {
                             handleClick(e, index);
                         }}>{item.name}</span>
                     )
-                })};
+                })}
             </div>
 
             <div className="work__container container grid">
