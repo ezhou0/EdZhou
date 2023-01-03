@@ -5,6 +5,7 @@ import Home from './components/home/Home';
 import About from './components/about/About'
 import Qualification from './components/qualification/Qualification';
 import Work from './components/work/Work';
+import Footer from './components/footer/Footer';
 
 function App() {
 
@@ -16,8 +17,10 @@ function App() {
           <About />
           <Qualification />
           <Work />
+           <Footer />
         </main>
            
+       
         
        
     </div>
