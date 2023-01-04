@@ -3,9 +3,11 @@ import "./footer.css";
 
 const Footer = () => {
     return(
-        <footer className="footer">
+        <footer className="footer" id="contact">
             <div className="footer__container container">
                 <h1 className="footer__title">Edwin Zhou</h1>
+                <span className="section__subtitle">edwinzhou99@gmail.com</span>
+
                 <ul className="footer__list">
                     <li>
                         <a href="#about" className="footer__link">About</a>
