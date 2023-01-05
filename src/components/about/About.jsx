@@ -18,7 +18,7 @@ const About = () =>{
                     href='https://www.youtube.com/watch?v=KuCwlx7ksuw&list=PLFfMg0FFSP1LnKu7TQiJC6Jsy90W7khBC'>here</a>.
                             </p>
 
-                            <a href={Resume} className="button button--flex">Resume
+                            <a href={Resume} download className="button button--flex">Resume
                                 <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
