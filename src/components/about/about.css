@@ -25,11 +25,13 @@
 }
 
 .about__link{
-    color: var(--text-color);
+    color: var(--title-color-dark);
+    text-decoration: underline;
 }
 
 .about__link:hover{
-    color: var(--title-color-dark)
+    color: var(--text-color);
+    text-decoration: none;
 }
 
 /* For large devices */
