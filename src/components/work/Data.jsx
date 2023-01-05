@@ -8,25 +8,33 @@ export const projectsData = [
     id: 1,
     image: Work1,
     title: 'Edify',
-    category: 'websites'
+    category: 'websites',
+    website: "https://edify-app.herokuapp.com/",
+    github:"https://github.com/ezhou0/Edify"
 },
 {
     id: 2,
     image: Work2,
     title: 'Flashcode',
-    category: 'websites'
+    category: 'websites',
+    website: "https://flashcode.herokuapp.com/#/",
+    github: "https://github.com/ezhou0/StephenBot"
 },
 {
     id:3,
     image: Work3,
-    title: 'Discord Bot',
+    title: 'Stephen Bot',
     category: 'misc',
+    website:"",
+    github: "https://github.com/ezhou0/StephenBothttps://github.com/ezhou0/StephenBot"
 },
 {
     id: 4,
     image: Work4,
     title: 'Audio Visualizer',
-    category: 'misc'
+    category: 'misc',
+    website: "",
+    github: "https://ezhou0.github.io/Audio-visualizer/"
 }
 ]
 
