@@ -18,7 +18,7 @@ export const projectsData = [
     title: 'Flashcode',
     category: 'websites',
     website: "https://flashcode.herokuapp.com/#/",
-    github: "https://github.com/ezhou0/StephenBot"
+    github: "https://github.com/caroger/flashcode"
 },
 {
     id:3,
@@ -26,7 +26,7 @@ export const projectsData = [
     title: 'Stephen Bot',
     category: 'misc',
     website:"",
-    github: "https://github.com/ezhou0/StephenBothttps://github.com/ezhou0/StephenBot"
+    github: "https://github.com/ezhou0/StephenBot"
 },
 {
     id: 4,
