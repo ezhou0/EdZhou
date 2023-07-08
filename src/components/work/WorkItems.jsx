@@ -1,4 +1,6 @@
-import React from 'react';
+import React, {useState} from 'react';
+import '../modal/Modal';
+import '../modal/useModal';
 
 const WorkItems = ({item}) => {
     return(
